@@ -2,8 +2,13 @@
 Title: Bob Lazar Blows Whistle
 Description: Bob Lazar blows whistle on nine UFOs held at S-4 / Area 51, where he attempted to understand the propulsion used by one of the craft. Little progress made, but some insights. Lost clearance after showing aerial displays to friends and filming them.
 
+<<<<<<< HEAD
 SortDate: 1989-04-01
 DisplayDate: "1989 April"
+=======
+SortDate: 1989-01-01
+DisplayDate: "1989"
+>>>>>>> 30b8e5b7fe6103aa2b016c476ad83c1f6a20f134
 ---
 
 Bob Lazar blows whistle on nine UFOs held at S-4 / Area 51, where he attempted to understand the propulsion used by one of the craft. Little progress made, but some insights. Lost clearance after showing aerial displays to friends and filming them.
