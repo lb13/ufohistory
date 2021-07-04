@@ -1,7 +1,29 @@
 <html>
     <body>
-        <h1>{{ .Title }}</h1>
+        
+    </body>
+</html>
 
-        <p>{{ .Content }}</p>
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+
+    <body class="has-background-grey-lighter">
+    {{ partial "hero.html" . }}
+
+    {{ partial "navbar.html" . }}
+
+    <section class="section">
+            
+        <div class="container">
+            {{ partial "breadcrumbs.html" . }}
+            <h1 class="is-size-1">{{ .Title }}</h1>
+            
+            <div class="content">
+                <blockquote>{{ .Description }}</blockquote>
+                {{ .Content }}
+            </div>
+        </div>
+    </section>
     </body>
 </html>

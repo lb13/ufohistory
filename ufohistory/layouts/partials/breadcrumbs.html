@@ -1,0 +1,17 @@
+<div class="columns is-mobile m-0">
+    <div class="pl-0 column has-text-black">
+        <div class="nav navbar-nav">
+            {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+        </div>
+        {{ define "breadcrumbnav" }}
+            {{ if .p1.Parent }}
+                {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+            {{ else if not .p1.IsHome }}
+                {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+            {{ end }}
+            <span{{ if eq .p1 .p2 }} style="color: #FF7400" class="has-text-weight-bold"{{ end }}>
+                <a {{ if eq .p1 .p2 }}style="color: #FF7400; text-decoration: none;"{{ else }}style="color: #000000; text-decoration: none;"{{ end }} href="{{ .p1.Permalink }}">{{ if isset .p1.Params "subtitle" }}{{ .p1.Params.subtitle }}{{ else }}{{ .p1.Title }}{{ end }}</a>{{ if ne .p1 .p2 }} &nbsp; >  &nbsp; {{ end }}
+            </span>
+        {{ end }}
+    </div>
+</div>

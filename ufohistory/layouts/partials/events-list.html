@@ -1,0 +1,18 @@
+{{ range (sort (where .Site.RegularPages "Section" "events") ".Params.SortDate" "asc") }}
+<div style="border-left: 10px solid #FF7400" class="card mb-5">
+    <div class="card-content">
+        <p class="subtitle has-text-grey small">{{ .Params.DisplayDate }}</p>
+        <p class="title">
+        {{ .Title }}
+        </p>
+    
+        <p>
+            {{ .Description }}
+        </p>
+
+        <p>
+        <a href="{{ .Permalink }}">More details...</a>
+    </p>
+    </div>
+</div>
+{{ end }}

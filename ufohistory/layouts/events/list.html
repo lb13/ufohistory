@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+
+    <body class="has-background-grey-lighter">
+    {{ partial "hero.html" . }}
+
+    {{ partial "navbar.html" . }}
+
+    <section class="section">
+            
+        <div class="container">
+            <h1 class="is-size-1">Events</h1>
+            {{ partial "events-list.html" . }}
+        </div>
+    </section>
+    </body>
+</html>
