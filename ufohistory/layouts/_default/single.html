@@ -16,11 +16,24 @@
     <section class="section">
             
         <div class="container">
+
             {{ partial "breadcrumbs.html" . }}
-            <h1 class="is-size-1">{{ .Title }}</h1>
             
             <div class="content">
-                <blockquote>{{ .Description }}</blockquote>
+                
+                {{ if (isset .Params "description") }}
+                <div class="card mt-3 has-background-warning">
+                    <div class="card-content">
+                        <p class="is-size-4">
+                            <strong>{{ .Description }}</strong>
+                        </p>
+                    </div>
+                </div>
+                {{ else }}
+                {{ end }}
+
+                <h1 class="is-size-1">{{ .Title }}</h1>
+
                 {{ .Content }}
             </div>
         </div>
