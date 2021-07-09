@@ -1,5 +1,18 @@
 {{ range (sort (where .Site.RegularPages "Section" "events") ".Params.SortDate" "asc") }}
-<div style="border-left: 10px solid #FF7400" class="card mb-5">
+<div style="border-left: 10px solid #FF7400" class="card mb-5 item">
+    <p class="searchstring" style="display: none">
+    
+        {{ .Title }}
+
+        {{ with .Description }}
+        {{ . }}
+        {{ end }}
+
+        {{ with .Params.tags }}
+        {{ . }}
+        {{ end }}
+        
+    </p>
     <div class="card-content">
         <p class="subtitle has-text-grey small">{{ .Params.DisplayDate }}</p>
         <p class="title">
