@@ -2,39 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sources on UFO History</title>
-    <link>https://romantic-mcnulty-ee229c.netlify.app/sources/</link>
+    <link>https://ufohistory.netlify.app/sources/</link>
     <description>Recent content in Sources on UFO History</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://romantic-mcnulty-ee229c.netlify.app/sources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ufohistory.netlify.app/sources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CIA&#39;s Role in the Study of UFOs, 1947-1990</title>
-      <link>https://romantic-mcnulty-ee229c.netlify.app/sources/cias-role-in-the-study-of-ufos-1947-1990/</link>
+      <link>https://ufohistory.netlify.app/sources/cias-role-in-the-study-of-ufos-1947-1990/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://romantic-mcnulty-ee229c.netlify.app/sources/cias-role-in-the-study-of-ufos-1947-1990/</guid>
+      <guid>https://ufohistory.netlify.app/sources/cias-role-in-the-study-of-ufos-1947-1990/</guid>
       <description>https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</description>
     </item>
     
     <item>
       <title>DNI Preliminary Assessment: Unidentified Aerial Phenomena</title>
-      <link>https://romantic-mcnulty-ee229c.netlify.app/sources/dni-preliminary-assessment-uap/</link>
+      <link>https://ufohistory.netlify.app/sources/dni-preliminary-assessment-uap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://romantic-mcnulty-ee229c.netlify.app/sources/dni-preliminary-assessment-uap/</guid>
+      <guid>https://ufohistory.netlify.app/sources/dni-preliminary-assessment-uap/</guid>
       <description>https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena</description>
     </item>
     
     <item>
       <title>Scientific Intelligence - General - Unidentified Flying Objects</title>
-      <link>https://romantic-mcnulty-ee229c.netlify.app/sources/australia-ufo-report/</link>
+      <link>https://ufohistory.netlify.app/sources/australia-ufo-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://romantic-mcnulty-ee229c.netlify.app/sources/australia-ufo-report/</guid>
+      <guid>https://ufohistory.netlify.app/sources/australia-ufo-report/</guid>
       <description>https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=30030606&amp;amp;S=1</description>
+    </item>
+    
+    <item>
+      <title>The Report on Unidentified Flying Objects by Edward J. Ruppelt</title>
+      <link>https://ufohistory.netlify.app/sources/report-on-ufos-ruppelt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/sources/report-on-ufos-ruppelt/</guid>
+      <description>https://www.gutenberg.org/ebooks/17346</description>
+    </item>
+    
+    <item>
+      <title>The Roswell Report: Fact versus Fiction in the New Mexico Desert</title>
+      <link>https://ufohistory.netlify.app/sources/the-roswell-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/sources/the-roswell-report/</guid>
+      <description>https://media.defense.gov/2010/Dec/01/2001329893/-1/-1/0/roswell-2.pdf
+[/files/roswell-2.pdf]</description>
     </item>
     
   </channel>
