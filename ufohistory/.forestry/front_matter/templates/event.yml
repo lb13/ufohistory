@@ -17,3 +17,5 @@ fields:
 - type: list
   name: Tags
   label: Tags
+pages:
+- ufohistory/content/events/2020-new-york-times-confirms-uaptf.md
