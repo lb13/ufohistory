@@ -5,6 +5,7 @@ Description: Article in New York Times confirms that investigation into UAP is p
 SortDate: 2020-07-23
 DisplayDate: 2020 July 23rd
 Tags:
+- America
 - UAPTF
 - '2020'
 
