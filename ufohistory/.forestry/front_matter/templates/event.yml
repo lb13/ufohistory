@@ -17,6 +17,9 @@ fields:
 - type: datetime
   name: SortDate
   label: SortDate
+  config:
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD
 - type: text
   name: DisplayDate
   label: DisplayDate
