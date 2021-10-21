@@ -2,7 +2,7 @@
 Title: New York Times Publishes UAPTF Article
 Description: Article in New York Times confirms that investigation into UAP is progressing,
   and a task force has been formed.
-SortDate: 2020-07-20
+SortDate: 2020-07-23
 DisplayDate: 2020 July 23rd
 Tags:
 - America
