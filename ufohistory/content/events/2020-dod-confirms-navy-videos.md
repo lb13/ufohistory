@@ -1,6 +1,6 @@
 ---
 Title: DoD Confirms Navy Videos of UAPs
-Description: ''
+Description: The recent videos are confirmed to be genuine Navy footage.
 SortDate: 2020-04-27
 DisplayDate: 2020 April 27th
 Tags: []
