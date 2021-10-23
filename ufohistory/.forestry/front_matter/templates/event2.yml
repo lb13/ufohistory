@@ -1,4 +1,32 @@
 ---
 label: Event2
 hide_body: false
-fields: []
+fields:
+- name: Title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: Description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: SortDate
+  type: text
+  config:
+    required: false
+  label: SortDate
+- name: DisplayDate
+  type: text
+  config:
+    required: false
+  label: DisplayDate
+- name: Tags
+  type: tag_list
+  default: []
+  label: Tags
