@@ -31,4 +31,5 @@ fields:
   default: []
   label: Tags
 pages:
+- ufohistory/content/events/1973-pascagoula.md
 - ufohistory/content/events/2019-ussf-established.md
