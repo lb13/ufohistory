@@ -4,6 +4,8 @@ Description: CIA-sponsored meeting of a scientific panel to consider the problem
 
 SortDate: 1953-01-14
 DisplayDate: "1953 January 14th to 16th"
+
+Tags: [1953,Robertson Panel,CIA]
 ---
 
 1953-January-14,15,16

@@ -3,6 +3,8 @@ Title: Project Stork (sixth status report)
 
 SortDate: 1952-10-10
 DisplayDate: "1952 October 10th"
+
+Tags: [1952,Project Stork,Battelle Memorial Institute]
 ---
 
 Sixth status report on Project Stork

@@ -3,6 +3,8 @@ Title: Project Blue Book Established
 
 SortDate: 1952-03-01
 DisplayDate: "1952 March"
+
+Tags: [1952,Edward Ruppelt,Project Blue Book]
 ---
 
 Initially led by Captain Edward J. Ruppelt.

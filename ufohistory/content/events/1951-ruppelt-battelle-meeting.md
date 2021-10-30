@@ -4,6 +4,8 @@ Description: In late December 1951, Ruppelt met with members of the Battelle Mem
 
 SortDate: 1951-12-26
 DisplayDate: "1951 December 26"
+
+Tags: [1951,Edward Ruppelt,Battelle Memorial Institute,Project Grudge]
 ---
 
 In late December 1951, Ruppelt met with members of the Battelle Memorial Institute, a think tank based in Columbus, Ohio. Ruppelt wanted their experts to assist them in making the Air Force UFO study more scientific. It was the Battelle Institute that devised the standardized reporting form.

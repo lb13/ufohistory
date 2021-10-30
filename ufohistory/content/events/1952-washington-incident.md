@@ -3,6 +3,8 @@ Title: Washington, D.C. UFO incident
 
 SortDate: 1952-07-12
 DisplayDate: "1952 July 12th to 29th"
+
+Tags: [1952,America,"Washington, D.C."]
 ---
 
 # 1952 Washington, D.C. UFO incident

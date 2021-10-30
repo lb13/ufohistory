@@ -32,7 +32,13 @@
                 {{ else }}
                 {{ end }}
 
-                <h1 class="is-size-1">{{ .Title }}</h1>
+                <h1 class="is-size-1 mt-4">{{ .Title }}</h1>
+                {{ if (isset .Params "displaydate") }}
+                <p class="is-size-4">
+                    <em>{{ .Params.displaydate }}</em>
+                </p>
+                {{ else }}
+                {{ end }}
 
                 {{ .Content }}
             </div>

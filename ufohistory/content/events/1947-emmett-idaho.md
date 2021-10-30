@@ -7,7 +7,7 @@ DisplayDate: "1947 July 4th"
 
 Sources: 
 
-Tags: [sighting,america,1947]
+Tags: [sighting,america,1947,idaho]
 ---
 
 In his book *[The Report on UFOs](/sources/report-on-ufos-ruppelt)*, Edward Ruppelt provides the following account:

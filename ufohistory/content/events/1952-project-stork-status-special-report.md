@@ -3,6 +3,8 @@ Title: Project Stork Special Report
 
 SortDate: 1952-08-06
 DisplayDate: "1952 August 6th"
+
+Tags: [1952,Project Stork,Battelle Memorial Institute]
 ---
 
 SPECIAL REPORT

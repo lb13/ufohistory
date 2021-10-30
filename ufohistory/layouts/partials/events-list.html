@@ -30,7 +30,7 @@
     <hr>
     <div class="item-taglist">
         {{ range sort .Params.tags }}
-        <span><a class="tag has-background-dark has-text-white" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
+        <span><a class="tag has-background-dark has-text-white" href="/tags/{{ lower . | urlize }}">{{ title . }}</a></span>&nbsp;
         {{ end }}
     </div>
     {{ else }}
