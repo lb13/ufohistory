@@ -7,6 +7,7 @@ DisplayDate: 2019 December 20th
 Tags:
 - Space Force
 - America
+- '2019'
 
 ---
 The Space Force was established as an independent military branch on 20th December 2019, with the signing of the United States Space Force Act.
