@@ -1,11 +1,17 @@
 ---
 Title: Advanced Aerospace Weapon Systems Applications Program (AAWSAP) Established
-Description: Establishment of the Advanced Aerospace Weapon Systems Applications Program (AAWSAP) at the DIA.
-
-SortDate: 2007-01-01
+Description: Establishment of the Advanced Aerospace Weapon Systems Applications Program
+  (AAWSAP) at the DIA.
+SortDate: '2007-01-01'
 DisplayDate: "2007"
----
+Tags:
+- '2007'
+- AAWSAP
+- DIA
+- america
+- BAASS
 
+---
 The details of this project are still being revealed - however the following seems to be accurate.
 
 In 2007 the DIA established the Advanced Aerospace Weapon Systems Applications Program (AAWSAP) to investigate so-called 'breakthrough technologies' and develop an understanding of the threat they might pose to the United States of America.
