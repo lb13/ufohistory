@@ -2,12 +2,12 @@
 Title: Maxwell AFB Sighting
 Description: Four Air Force officers, two pilots, and two intelligence officers from Maxwell AFB in Montgomery, Alabama, saw a bright light traveling across the sky.
 
-SortDate: 1947-06-28--21:20
+SortDate: 1947-06-28
 DisplayDate: "1947 June 28th"
 
 Sources: 
 
-Tags: [sighting,america,1947]
+Tags: [sighting,america,1947,Maxwell AFB,Alabama]
 ---
 
 In his book *[The Report on UFOs](/sources/report-on-ufos-ruppelt)*, Edward Ruppelt provides the following account:

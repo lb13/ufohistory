@@ -7,7 +7,7 @@ DisplayDate: "1947 July 8th"
 
 Sources: 
 
-Tags: [sighting,america,1947]
+Tags: [sighting,america,1947,Edwards AFB,Muroc Air Base,California]
 ---
 
 In his book *[The Report on UFOs](/sources/report-on-ufos-ruppelt)*, Edward Ruppelt provides the following account:
