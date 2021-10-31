@@ -1,5 +1,6 @@
 ---
-Title: New York Times Publishes UAP Article
+Title: "‘ Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program’
+  article published by New York Times"
 Description: In collaboration with To The Star Academy, release and publicise footage
   of UAP.
 SortDate: '2017-12-16'
