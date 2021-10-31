@@ -1,5 +1,5 @@
 ---
-Title: "‘ No Longer in Shadows, Pentagon’s U.F.O. Unit Will Make Some Findings Public’
+Title: "‘No Longer in Shadows, Pentagon’s U.F.O. Unit Will Make Some Findings Public’
   article published by New York Times"
 Description: Article in New York Times confirms that investigation into UAP is progressing,
   and a task force has been formed.
