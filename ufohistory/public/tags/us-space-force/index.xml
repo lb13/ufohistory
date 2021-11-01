@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>US Space Force on UFO History</title>
+    <link>https://ufohistory.netlify.app/tags/us-space-force/</link>
+    <description>Recent content in US Space Force on UFO History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://ufohistory.netlify.app/tags/us-space-force/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>US Space Force Established</title>
+      <link>https://ufohistory.netlify.app/events/2019-ussf-established/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/2019-ussf-established/</guid>
+      <description>The Space Force was established as an independent military branch on 20th December 2019, with the signing of the United States Space Force Act.
+https://en.m.wikipedia.org/wiki/United_States_Space_Force</description>
+    </item>
+    
+  </channel>
+</rss>

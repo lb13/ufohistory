@@ -1,7 +1,7 @@
 +++
 Description = "A subsidiary company of Bigelow Aerospace, created to fulfil the AAWSAP contract."
-DisplayDate = "2008 September"
-SortDate = "2008-09-01"
+DisplayDate = "2008 January 29th"
+SortDate = "2008-01-29"
 Tags = ["2008", "BAASS", "Robert Bigelow", "AAWSAP"]
 Title = "Creation of Bigelow Aerospace Advanced Space Studies (BAASS)"
 

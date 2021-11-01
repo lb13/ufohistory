@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATIC on UFO History</title>
+    <link>https://ufohistory.netlify.app/tags/atic/</link>
+    <description>Recent content in ATIC on UFO History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://ufohistory.netlify.app/tags/atic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1952 ATIC Meeting</title>
+      <link>https://ufohistory.netlify.app/events/1952-atic-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/1952-atic-meeting/</guid>
+      <description>CIA, ATIC, and representatives from either Project Stork or Battelle Memorial Institute (referenced indirectly in Pentacle Memo), held at ATIC.</description>
+    </item>
+    
+  </channel>
+</rss>

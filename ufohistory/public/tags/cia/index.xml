@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIA on UFO History</title>
+    <link>https://ufohistory.netlify.app/tags/cia/</link>
+    <description>Recent content in CIA on UFO History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://ufohistory.netlify.app/tags/cia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1952 ATIC Meeting</title>
+      <link>https://ufohistory.netlify.app/events/1952-atic-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/1952-atic-meeting/</guid>
+      <description>CIA, ATIC, and representatives from either Project Stork or Battelle Memorial Institute (referenced indirectly in Pentacle Memo), held at ATIC.</description>
+    </item>
+    
+    <item>
+      <title>Formation of CIA</title>
+      <link>https://ufohistory.netlify.app/events/1947-formation-of-cia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/1947-formation-of-cia/</guid>
+      <description>https://en.wikipedia.org/wiki/Central_Intelligence_Agency</description>
+    </item>
+    
+    <item>
+      <title>Robertson Panel</title>
+      <link>https://ufohistory.netlify.app/events/1953-robertson-panel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/1953-robertson-panel/</guid>
+      <description>1953-January-14,15,16 Robertson Panel, Washington D.C. CIA-sponsored meeting of a scientific panel to consider the problem of &amp;ldquo;flying saucers&amp;rdquo;.
+The outcome of these meetings was a classified recommendation to make up stories and plausible explanations for the phenomenon to keep the public unaware of extra terrestrials and reduce the number of UFO reports coming in.
+It concluded that it should discount all reports from the public and rely on instrumentation from the military.</description>
+    </item>
+    
+  </channel>
+</rss>

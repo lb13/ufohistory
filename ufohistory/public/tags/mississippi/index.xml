@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mississippi on UFO History</title>
+    <link>https://ufohistory.netlify.app/tags/mississippi/</link>
+    <description>Recent content in Mississippi on UFO History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://ufohistory.netlify.app/tags/mississippi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pascagoula River Abduction</title>
+      <link>https://ufohistory.netlify.app/events/1973-pascagoula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/1973-pascagoula/</guid>
+      <description>More details: https://www.nbcnews.com/sciencemain/man-says-1973-ufo-abduction-incident-turned-life-upside-down-8c11377316</description>
+    </item>
+    
+  </channel>
+</rss>

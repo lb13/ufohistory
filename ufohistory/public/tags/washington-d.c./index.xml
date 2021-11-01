@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Washington, D.C. on UFO History</title>
+    <link>https://ufohistory.netlify.app/tags/washington-d.c./</link>
+    <description>Recent content in Washington, D.C. on UFO History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://ufohistory.netlify.app/tags/washington-d.c./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Washington, D.C. UFO incident</title>
+      <link>https://ufohistory.netlify.app/events/1952-washington-incident/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/1952-washington-incident/</guid>
+      <description>1952 Washington, D.C. UFO incident https://en.wikipedia.org/wiki/1952_Washington,_D.C._UFO_incident
+UFOs appeared over the capital, air force engaged, damaging one of the craft, a piece of metal was recovered (JV on JRE). The event (along with public reaction) triggered formation of Robertson Panel.</description>
+    </item>
+    
+  </channel>
+</rss>

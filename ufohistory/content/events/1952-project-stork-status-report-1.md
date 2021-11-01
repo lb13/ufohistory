@@ -4,7 +4,7 @@ Title: Project Stork (first status report)
 SortDate: 1952-04-25
 DisplayDate: "1952 April 25th"
 
-Tags: [1952,Project Stork]
+Tags: [1952,Project Stork,Battelle Memorial Institute]
 ---
 
 First status report on Project Stork

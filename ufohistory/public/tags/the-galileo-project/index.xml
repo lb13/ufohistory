@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Galileo Project on UFO History</title>
+    <link>https://ufohistory.netlify.app/tags/the-galileo-project/</link>
+    <description>Recent content in The Galileo Project on UFO History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://ufohistory.netlify.app/tags/the-galileo-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elizondo and Mellon join Galileo Project as Research Affiliates</title>
+      <link>https://ufohistory.netlify.app/events/2021-elizondo-mellon-galileo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/2021-elizondo-mellon-galileo/</guid>
+      <description>https://projects.iq.harvard.edu/galileo/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates</description>
+    </item>
+    
+    <item>
+      <title>Launch of the Galileo Project</title>
+      <link>https://ufohistory.netlify.app/events/2021-galileo-launch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufohistory.netlify.app/events/2021-galileo-launch/</guid>
+      <description>https://projects.iq.harvard.edu/galileo</description>
+    </item>
+    
+  </channel>
+</rss>
