@@ -5,10 +5,6 @@
     <link>https://ufohistory.netlify.app/contact/</link>
     <description>Recent content in Contact on UFO History</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://ufohistory.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://ufohistory.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
