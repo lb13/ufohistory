@@ -1,3 +1,4 @@
+<div id="events-container">
 {{ range (sort (where .Site.RegularPages "Section" "events") ".Params.SortDate" "asc") }}
 <div style="border-left: 10px solid #FF7400" class="card mb-5 item">
     <p class="searchstring" style="display: none">
@@ -38,3 +39,4 @@
     </div>
 </div>
 {{ end }}
+</div>
