@@ -22,28 +22,47 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
   
+    // Initial filter application (handles default state)
+    applyFilters();
   });
 
-  // Normal search function for desktop interface
-function search() {
-  var list = document.getElementsByClassName('searchstring');
-  var item = document.getElementsByClassName('item');
-  var input = document.getElementById('searchbox');
-  var filter = input.value.toUpperCase();    
-  var string;
+function applyFilters() {
+  const items = Array.from(document.getElementsByClassName('item'));
+  const container = document.getElementById('events-container');
+  if (!container || items.length === 0) return;
 
-for (i = 0; i < item.length; i++) {
+  const searchInput = document.getElementById('searchbox');
+  const decadeFilter = document.getElementById('decadeFilter');
+  const sortSelect = document.getElementById('sortSelect');
 
-    string = list[i].innerHTML;
+  const filterText = searchInput.value.toUpperCase().trim();
+  const filterDecade = decadeFilter.value ? parseInt(decadeFilter.value) : '';
+  const sortDir = sortSelect.value; // 'asc' or 'desc'
 
-    if  (
-        string.toUpperCase().indexOf(filter) > -1
-        )
-    {
-      item[i].style.display = "block";
-    } else {
-      item[i].style.display = "none";
-    }
-    }
+  // Collect event data for each item
+  const events = items.map(item => {
+    const dateText = item.querySelector('.subtitle').textContent.trim();
+    const yearMatch = dateText.match(/\d{4}/);
+    const year = yearMatch ? parseInt(yearMatch[0]) : 0;
+    const decade = Math.floor(year / 10) * 10;
+    const searchString = item.querySelector('.searchstring').innerHTML.toUpperCase();
+
+    return { item, year, decade, searchString };
+  });
+
+  // Filter
+  let filtered = events.filter(ev => {
+    const matchesText = filterText === '' || ev.searchString.indexOf(filterText) > -1;
+    const matchesDecade = filterDecade === '' || ev.decade === filterDecade;
+    return matchesText && matchesDecade;
+  });
+
+  // Sort by year
+  filtered.sort((a, b) => {
+    return sortDir === 'desc' ? b.year - a.year : a.year - b.year;
+  });
+
+  // Clear container and re-append filtered/sorted items
+  container.innerHTML = '';
+  filtered.forEach(ev => container.appendChild(ev.item));
 };
-// End of normal search function for desktop interface
