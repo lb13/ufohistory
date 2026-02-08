@@ -1,6 +1,34 @@
 <div class="columns">
     <div class="column">
-        <input id="searchbox" class="input is-size-4" style="border-radius: 0px; border: 2px solid black; margin-top: 10px" type="text" placeholder="" onkeyup="search()">
+        <input id="searchbox" class="input is-size-4" style="border-radius: 0px; border: 2px solid black; margin-top: 10px" type="text" placeholder="" onkeyup="applyFilters()">
         <label class="has-text-black"><em>Search by any criteria, e.g. 1947, UAP, or Battelle</em></label>
+    </div>
+</div>
+
+<div class="columns">
+    <div class="column is-half">
+        <div class="select is-fullwidth">
+            <select id="decadeFilter" onchange="applyFilters()">
+                <option value="">All decades</option>
+                <option value="1930">1930s</option>
+                <option value="1940">1940s</option>
+                <option value="1950">1950s</option>
+                <option value="1960">1960s</option>
+                <option value="1970">1970s</option>
+                <option value="1980">1980s</option>
+                <option value="1990">1990s</option>
+                <option value="2000">2000s</option>
+                <option value="2010">2010s</option>
+                <option value="2020">2020s</option>
+            </select>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="select is-fullwidth">
+            <select id="sortSelect" onchange="applyFilters()">
+                <option value="asc">Oldest first (default)</option>
+                <option value="desc">Newest first</option>
+            </select>
+        </div>
     </div>
 </div>
