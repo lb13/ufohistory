@@ -33,14 +33,51 @@ Independent researcher **UAP Gerb** has produced detailed investigative work —
 - Northrop's own **Advanced Technology & Design Center** — its equivalent of Lockheed's Skunkworks — disappeared from public record in the late 1990s, around the time UAP research suggests it may have been absorbed into classification.
 - The acquisition brought the **Aerospace Corporation** connection into Northrop's orbit: **Stephanie O'Sullivan**, a former TRW engineer and current Aerospace Corporation board member, was named by whistleblower **David Grusch** in 2023 Congressional testimony as having managed the UAP crash retrieval issue alongside former DNI **James Clapper** at ODNI.
 
-## Legal Aftermath
-In 2003, Northrop Grumman paid **$111 million** to settle a lawsuit inherited from TRW for "overcharging of space programmes." UAP researchers have noted this settlement in connection with the **Wilson-Davis memo** — an alleged 2002 meeting between astrophysicist Eric Davis and Admiral Thomas Wilson in which Wilson claimed to have been denied access to a corporate UAP programme.
+## TRW IRAD Fraud History
+
+TRW's use of **Independent Research and Development (IRAD)** funds — government-reimbursed spending on contractor-directed R&D — became a recurring subject of fraud investigations:
+
+- **1986**: A TRW vice president departed over IRAD overcharging allegations.
+- **1989**: The Government Accountability Office investigated TRW for IRAD misclassification.
+- **1990–1997**: Five separate IRAD fraud schemes were identified.
+- **2003**: Northrop Grumman paid **$111.2 million** to settle False Claims Act liability inherited from TRW for fraudulent IRAD billing on space programmes.
+
+An **April 5, 1982 CIA memorandum** is notable in this context: the CIA's Directorate of Science and Technology (DS&T) explicitly sought to channel IRAD funds through TRW, Lockheed, E-Systems, Rockwell, and Harris — framing contractor IRAD budgets as a potential vehicle for funding highly sensitive programmes off the formal acquisition books.
+
+TRW's IRAD expenditures in the final years before the acquisition were substantial: **$468M (1999)**, **$442M (2000)**, **$442M (2001)**. Post-acquisition Northrop figures continued at comparable scale: **$429M (2003)**, ~**$540M (2004)**, **$538M (2005)**.
+
+## Northrop Advanced Technology and Design Center (NATDC)
+
+Northrop operated a classified advanced design facility — the **Advanced Technology and Design Center (NATDC)** — formed by 1991 at **Pico Rivera, California** (the B-2 bomber development site). It was Northrop's equivalent of Lockheed's Skunk Works.
+
+Key NATDC personnel on public record:
+- **Brigadier General Delbert H. Jacobs** — VP and centre manager (1995)
+- **Irv Walland** — VP and chief designer (designed the B-2)
+- **Richard Kerrion** — propulsion engineer
+
+The last public reference to the NATDC appeared in a **1999 NASA paper**. Between 2000 and 2001, the centre reportedly relocated to **El Segundo** and was renamed the **Advanced Systems Development Center (ASDC)**. By 2003 — the year following the TRW acquisition — all public references had disappeared entirely.
+
+## Tahone RCS Facility
+
+Northrop's **Tahone radar cross-section (RCS) test range** in Antelope Valley near Palmdale, California, was used for B-2 stealth development testing and featured extensive underground infrastructure. Northrop purchased **1,415 acres** at the site in 1998. The facility was officially declared closed in 2011.
+
+In **November 2024**, the land was sold to **EDF Power Solutions**, subsequently transferred to **Scout Clean Energy / Keyhole Wind LLC**.
+
+Urban explorers who accessed the site in the years after its supposed closure — including the channels Uncanny Expeditions (Anders) and Wasteland by Wednesday — described it as *"too clean for a site abandoned for 14 years"*: no debris, organised equipment, a locked generator building with an active ventilation shaft to underground infrastructure. **Project Blue Book documents** were reportedly found in the administration building.
+
+## Legal Aftermath and the Wilson-Davis Connection
+
+In 2003, Northrop Grumman paid **$111.2 million** to settle the False Claims Act lawsuit inherited from TRW for IRAD fraud on space programmes. UAP researchers have noted this settlement in the context of the **[Wilson-Davis meeting of October 2002](/events/2002-10-16-wilson-davis-meeting)** — in which retired Vice Admiral Thomas Wilson told Dr. Eric Davis that he had been denied access to a classified corporate reverse-engineering programme and threatened with career consequences. The identity of the contractor Wilson identified has not been made public, but the timing of the settlement and acquisition have attracted scrutiny.
 
 ## Context
+
 The acquisition came during a period of massive defence consolidation following 9/11, and positioned Northrop Grumman as the third-largest US defence contractor. It added TRW's satellite, electronic systems, and advanced technology capabilities to Northrop's existing aeronautics and shipbuilding portfolio.
 
 ## Sources
+
 - [UAP Gerb: Northrop Grumman & TRW — Legacy Programs (YouTube)](/sources/uap-gerb-northrop-grumman-trw-legacy-programs)
+- [Wilson-Davis Meeting, October 2002](/events/2002-10-16-wilson-davis-meeting)
+- [The Aerospace Corporation Founded, 1960](/events/1960-06-03-aerospace-corporation-founded)
 - TRW Inc. Wikipedia: https://en.wikipedia.org/wiki/TRW_Inc.
 - Northrop Grumman timeline: https://timepath.org/northrop-grumman
 - Former TRW Space Park historic designation: https://www.militaryaerospace.com/computers/article/16716915/former-trw-space-park-now-northrop-grumman-designated-as-historic-site-for-electronics-and-aerospace-work
