@@ -30,7 +30,7 @@ https://youtu.be/0kLSp0lH-JQ
 - The institutional chain described: Major Range and Test Facility Bases (MRTFBs — Edwards, Dugway, Tonopah) → FFRDCs (Sandia, Battelle, Aerospace Corporation) → prime contractors (Northrop, Lockheed, SAIC).
 
 ### Stephanie O'Sullivan and ODNI
-- Whistleblower **David Grusch** (2023 Congressional testimony) stated that **Stephanie O'Sullivan** — former Principal Deputy Director of National Intelligence (PDDNI) and former TRW engineer, now on the Aerospace Corporation board — managed the UAP crash retrieval issue alongside **James Clapper** at ODNI.
+- Whistleblower **David Grusch** (in media interviews from 2025–2026, including the Megyn Kelly interview) alleged that **Stephanie O'Sullivan** — former Principal Deputy Director of National Intelligence (PDDNI) and former TRW engineer, now chair of the Aerospace Corporation board — managed the UAP crash retrieval issue alongside **James Clapper** at ODNI.
 - The TRW → Northrop → Aerospace Corporation personnel lineage is therefore directly implicated in whistleblower allegations.
 
 ### Independent Research and Development (IRAD)

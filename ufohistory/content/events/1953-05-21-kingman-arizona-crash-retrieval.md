@@ -10,7 +10,7 @@ Tags:
 - Arizona
 - Wright-Patterson
 - reverse engineering
-- Dr Ed Dole
+- Dr Ed Doll
 - TRW
 ---
 
@@ -24,7 +24,7 @@ Stansel described the object as roughly **30 feet in diameter**, oval in shape, 
 
 ## Personnel
 
-**Dr. Ed Dole** — Dr. Edward Bushnell Dole, at the time a senior figure at TRW's predecessor organisation — is named by Stansel as the coordinator who summoned him to the operation ("Dr. D" in the diary entry). Dole had a background in military effects research, having directed the military effects group during Operation Upshot-Knothole in March 1953, just weeks before the Kingman event.
+**Dr. Ed Doll** — Dr. Edward Bushnell Doll, at the time a senior figure at TRW's predecessor organisation — is named by Stansel as the coordinator who summoned him to the operation ("Dr. D" in the diary entry). Doll had a background in military effects research, having directed the military effects group during Operation Upshot-Knothole in March 1953, just weeks before the Kingman event.
 
 **Dr. Eric Henry Wang** is named as the lead of the reverse engineering team assigned to the craft.
 
@@ -34,10 +34,10 @@ Stansel did not disclose the event publicly until **1973**, when he was intervie
 
 ## Significance
 
-The Kingman retrieval sits within the same operational window as a cluster of alleged crash retrievals in the early 1950s. It is notable for the specificity of the witness account, the named personnel, and the diary corroboration predating the disclosure by twenty years. The involvement of Dole — who would go on to become Executive Vice President of TRW Systems Group — and Wang points to a network of engineers connected to both government weapons programmes and alleged non-human technology recovery.
+The Kingman retrieval sits within the same operational window as a cluster of alleged crash retrievals in the early 1950s. It is notable for the specificity of the witness account, the named personnel, and the diary corroboration predating the disclosure by twenty years. The involvement of Doll — who would go on to become Executive Vice President of TRW Systems Group — and Wang points to a network of engineers connected to both government weapons programmes and alleged non-human technology recovery.
 
 ## Sources
 
 - Raymond Fowler, *UFOs: Interplanetary Visitors* (1974)
 - [UAP Gerb: Northrop Grumman, TRW and Legacy Programmes](/sources/uap-gerb-northrop-grumman-trw-legacy-programs)
-- [Dr. Edward Bushnell Dole](/people/dr-edward-bushnell-dole)
+- [Dr. Edward Bushnell Doll](/people/dr-edward-bushnell-doll)

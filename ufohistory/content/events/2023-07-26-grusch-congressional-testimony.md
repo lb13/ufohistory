@@ -30,9 +30,9 @@ Grusch was a 14-year intelligence officer — US Air Force (Major) and, from 202
 
 **Illegal concealment:** He alleged that members of Congress and appropriate oversight bodies had been deliberately denied information about these programmes in violation of law.
 
-## The O'Sullivan and Clapper Allegation
+## Scope of Claims
 
-Among Grusch's most specific claims was that **Stephanie O'Sullivan** — Principal Deputy Director of National Intelligence under DNI James Clapper (2011–2017) and now chairman of [The Aerospace Corporation](/events/1960-06-03-aerospace-corporation-founded) — had managed the crash retrieval issue alongside Clapper at ODNI. O'Sullivan's prior career at TRW and her subsequent intelligence and FFRDC roles place this allegation within a coherent institutional network.
+Grusch was careful to note he had not personally seen craft or bodies — his testimony was based on accounts from over 40 witnesses interviewed in his official capacity. He named no specific contractors or programme names publicly in the Congressional hearing itself. More specific allegations — including naming individuals such as **Stephanie O'Sullivan** in connection with crash retrieval management — emerged in Grusch's subsequent media appearances in 2025–2026.
 
 ## Whistleblower Process
 

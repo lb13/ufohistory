@@ -31,7 +31,7 @@ Independent researcher **UAP Gerb** has produced detailed investigative work —
 
 - TRW is alleged to have independently operated **UAP crash retrieval** teams and material exploitation programmes prior to the acquisition.
 - Northrop's own **Advanced Technology & Design Center** — its equivalent of Lockheed's Skunkworks — disappeared from public record in the late 1990s, around the time UAP research suggests it may have been absorbed into classification.
-- The acquisition brought the **Aerospace Corporation** connection into Northrop's orbit: **Stephanie O'Sullivan**, a former TRW engineer and current Aerospace Corporation board member, was named by whistleblower **David Grusch** in 2023 Congressional testimony as having managed the UAP crash retrieval issue alongside former DNI **James Clapper** at ODNI.
+- The acquisition brought the **Aerospace Corporation** connection into Northrop's orbit: **Stephanie O'Sullivan**, a former TRW engineer and Aerospace Corporation board chair, was identified by whistleblower **David Grusch** in later media interviews (Megyn Kelly, late 2025) and in a Liberation Times report (January 2026) as having managed the UAP crash retrieval issue alongside former DNI **James Clapper** at ODNI.
 
 ## TRW IRAD Fraud History
 

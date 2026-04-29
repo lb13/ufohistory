@@ -33,7 +33,7 @@ Independent researcher **UAP Gerb** places The Aerospace Corporation at **Level 
 
 The argument is structural: FFRDCs have deep classified access, long institutional continuity, and operate outside normal congressional procurement oversight, making them plausible custodians of long-running sensitive programmes.
 
-**Stephanie O'Sullivan** — a former TRW engineer (c.1982–85) who later became Principal Deputy Director of National Intelligence (2011–2017) and is now chairman of The Aerospace Corporation — was named in **David Grusch's 2023 Congressional testimony** as one of the officials who managed the crash retrieval issue alongside former DNI James Clapper at ODNI. Her career arc — TRW → naval intelligence → CIA → ODNI → Aerospace Corporation — traces exactly the network of institutions that UAP researchers identify as core to the alleged legacy programme.
+**Stephanie O'Sullivan** — a former TRW engineer (c.1982 to late 1980s) who went on to serve at the Office of Naval Intelligence, as CIA DS&T Director, and as Principal Deputy Director of National Intelligence (2011–2017), and who is now chair of the Aerospace Corporation board — was identified in **David Grusch's later media interviews** (Megyn Kelly interview, late 2025) and in a **Liberation Times report (January 2026)** as having managed the crash retrieval issue alongside former DNI James Clapper at ODNI. Her career arc — TRW → naval intelligence → CIA → ODNI → Aerospace Corporation — traces exactly the network of institutions that UAP researchers identify as core to the alleged legacy programme.
 
 ## Sources
 

@@ -9,7 +9,7 @@ Description: Head of the Office of Special Studies at Wright-Patterson Air Force
 
 Wang's office sits at the centre of several intersecting accounts of post-Roswell research at Wright-Patterson. Researcher accounts describe his unit as operating above standard classification, with access restricted even within the Air Force chain of command.
 
-Arthur Stansel Jr., an engineer in the **Air Material Command Installations Division** within Wang's office, stated that it was Wang who led the technical team dispatched to the **1953 Kingman, Arizona** site — and it was Wang's superior, Dr. Edward Bushnell Dole, who coordinated Stansel's participation. Wang is named as the **reverse-engineering team lead** for the Kingman retrieval.
+Arthur Stansel Jr., an engineer in the **Air Material Command Installations Division** within Wang's office, stated that it was Wang who led the technical team dispatched to the **1953 Kingman, Arizona** site — and it was Wang's superior, Dr. Edward Bushnell Doll, who coordinated Stansel's participation. Wang is named as the **reverse-engineering team lead** for the Kingman retrieval.
 
 ## The Kissinger Connection
 
@@ -28,6 +28,6 @@ Wang's position as the operational head of an office that multiple witnesses ass
 ## Sources
 
 - [1953 Kingman, Arizona Crash Retrieval](/events/1953-05-21-kingman-arizona-crash-retrieval)
-- [Dr. Edward Bushnell Dole](/people/dr-edward-bushnell-dole)
+- [Dr. Edward Bushnell Doll](/people/dr-edward-bushnell-doll)
 - https://captej.blogspot.com/2015/03/the-secret-team-dr-eric-henry-wang_8.html
 - Raymond Fowler, *Casebook of a UFO Investigator* (1981)
